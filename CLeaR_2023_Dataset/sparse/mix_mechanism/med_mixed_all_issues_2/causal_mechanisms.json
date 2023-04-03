@@ -1,0 +1,16 @@
+{
+    "node_1": "linear",
+    "node_2": "sigmoid_add",
+    "node_3": "gp_mix",
+    "node_4": "polynomial",
+    "node_5": "sigmoid_mix",
+    "node_6": "sigmoid_add",
+    "node_7": "gp_mix",
+    "node_8": "gp_mix",
+    "node_9": "linear",
+    "node_10": "sigmoid_mix",
+    "node_11": "gp_add",
+    "node_12": "sigmoid_mix",
+    "node_13": "gp_add",
+    "node_14": "linear"
+}
