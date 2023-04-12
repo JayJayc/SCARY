@@ -1,4 +1,4 @@
-# SCARY Dataset (CLeaR2023 Submission)
+# SCARY Dataset (CLeaR2023)
 
 This repository contains a collection of datasets for causal discovery, which are split into two folders: sparse and dense. Each folder contains datasets that exhibit either sparse or dense causal DAGs.
 
